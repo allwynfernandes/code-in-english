@@ -12,6 +12,10 @@ HTML is a document itself. Like a book, bank statement, shopping reciept.
 #### CSS is a fashion magazine
 Think of CSS as a stone tablet like the 10 commandments. The great creator(You) has written a set of rules in it that prescribe what HTML should and should not wear, how it should dress, what colors are allowed and so on. An absolute fashionista!
 
+
+#### Python is a wizard
+Not only can she edit existing books, magazines, images, videos but also create all those things from thin air! 
+
 #### Functions are deals
 Imagine yourself at a fancy restraurant. You like to drink a lot of water. Everytime you need a glass of water the waiter asks you 5 follow up questions. ("Do you want it hot or cold? Sparkling or natural? Coffee or tea instead? How many liters?...") Imagine having to answer those questions EVERY SINGLE TIME you want just a glass of water.
 Now say you made a deal with the waiter answering those questions once and for all. Your deal would sound something like this:
