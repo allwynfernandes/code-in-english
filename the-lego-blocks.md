@@ -34,7 +34,8 @@ Of course, I wouldn't recommend you ever say "get water" to a waiter. That would
 
 
 #### Scope
-![cafune - Courtesy: 29 Untranslatable Love Words From Around The World](/static/scope-love-word.jpg)
+![](/static/scope-love-word.jpg)
+<small>[29 Untranslatable Love Words From Around The World - The Atlantic](https://www.boredpanda.com/untranslatable-love-words-meanings-emma-block/) </small>
 The same word can mean different thing in different languages. The English word ”gift” means ”poison” in German and Norwegian, and ”married” in Swedish. As you can see, while the word sounds and is spelled the same, it's meaning is defined by the context (laguage or country) it is used in. It's scope in which a variable is used.
 Global scope would mean the united nations coming together and agreeing that that water means water. Then, no matter what part of the world you may go to, everyone will quench your thirst when you ask them for water.
 In the same way, if a word is only understood in the current language or contry you're in, then we would say that it has "local scope" since it is relevant and known only locally. 
