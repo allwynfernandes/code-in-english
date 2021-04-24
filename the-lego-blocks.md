@@ -33,4 +33,11 @@ Hey, next time I say "get water", do this:
 Of course, I wouldn't recommend you ever say "get water" to a waiter. That would be terribly rude but in the world of programming the computer always has your best intention in mind. Let me know what you think? is it okay to be rude and direct with computers or should we include a please with every function?
 
 
+#### Scope
+![](https://static.boredpanda.com/blog/wp-content/uploads/2015/10/untranslatable-love-words-meanings-emma-block-fb.jpg)
+The same word can mean different thing in different languages. The English word ”gift” means ”poison” in German and Norwegian, and ”married” in Swedish. As you can see, while the word sounds and is spelled the same, it's meaning is defined by the context (laguage or country) it is used in. It's scope in which a variable is used.
+Global scope would mean the united nations coming together and agreeing that that water means water. Then, no matter what part of the world you may go to, everyone will quench your thirst when you ask them for water.
+In the same way, if a word is only understood in the current language or contry you're in, then we would say that it has "local scope" since it is relevant and known only locally. 
+
+
 {Note: This page is alive. I add stuff to it as and when I get ideas or have intriguing conversations with my nephew. Feel free to fork it and add your own anecdotes and explanations. Hope you find this useful.}
