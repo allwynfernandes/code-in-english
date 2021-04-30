@@ -42,6 +42,24 @@ If you seriously struggle with learning programming, think of each of those inst
 Perseverance and curiosity are the only two things you need as a begginer programmer. Those two virtues go a long way. No wonder NASA picked them as the perfect words to christen their [Mars rovers](https://mars.nasa.gov/mars2020/spacecraft/rover/body/) with ;) 
 
 
+## Learning to code
+#### Learning just in time vs all at once
+Just like learning a language requires speaking in that language, so too learning to code requires that you 'speak' in code.
+Ie. You need to write code. You need to build stuff.
+
+Once again, just as sitting with a dictionary, learning every word in it is not the best way to learn English, so too rote memorizing ALL function, concept and code snippet will not help you much. You will probably forget all of them before the end of the day.
+If you remember how you learnt speaking in English, you'd remember that the best practice was to actually speak in English with your friends, teachers, read books, watch movies and so on. You really need to *indulge* yourself in the language.
+While watching a movie you'd come across a perplexing word, then you'd run, find a dictionary and google that word for its meaning, in the process understanding its meaning, use and spelling, all because it made you curious. While learning to program, you should let this very same curiosity guide you. 
+Learning concepts just-in-time as a need arises.
+
+#### A case for learning mass blocks at once
+Soon you'd learn that its very inefficient and perhaps even irritating to keep looking up these complex words every time an actor uses them. So you get yourself something like Barron's 500 - The 500 most used words in the English language. This helps you greatly. Now, every time you hear a complex word you have some brief idea of what it could mean if not a complete understanding.
+The same stands true for learning concepts in programming. This what it means to Read The Docs. This is soo common that there's actually a website dedicated for exactly this purpose-- readthedocs.org
+
+
+
+
+
 
 ## The lingo
 #### Functions are deals
