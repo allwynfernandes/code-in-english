@@ -41,6 +41,10 @@ Learn the language, more importantly, its grammar and you can make that cast of 
 If you seriously struggle with learning programming, think of each of those instructions as independent lego blocks. Deal with them one at a time. There really isn't more to them.
 Perseverance and curiosity are the only two things you need as a begginer programmer. Those two virtues go a long way. No wonder NASA picked them as the perfect words to christen their [Mars rovers](https://mars.nasa.gov/mars2020/spacecraft/rover/body/) with ;) 
 
+## Programmer as a translator
+In many ways (but certainly not all) a programmer works like a glorified transaltor. Just as a translator would be handed a bank statement written in French and asked to get it translated to English, so too is the programmer handed a 'Design brief' (written in English) and asked to be translated to Python, Javascript or HTML.
+Knowing the meaning of words in French and it's equivalent in English makes a translator valuable. In the same way, taking a design brief and converting it to functional programs, fast loading pages, and beautiful websites is the job of the programmer.
+Now, there are three types of programmers - Front end, the folks who design how things look; Back end, the folks who design how things work. Full stack, those who do both.
 
 ## Learning to code
 #### Learning just in time vs all at once
