@@ -39,6 +39,19 @@ ball.throw
 ball.catch
 ```
 It is a lot more intuitive to imagine these "methods" as roots or branches of a tree. I.E. they have an existance of their own, a purpose too but are still very much linked to the mother ship which in this case is the ball itself.
+The concept of method is a child of object.
+
+#### Properties define the features of a thing
+Properties are the unique characteristics of an object.
+If green tennis ball was an object, 'green' and 'tennis' would be its properties.
+To show it in code, it would look something like:
+```py
+ball = {
+	'color':'green',
+	'game-type':'tennis'
+}
+``` 
+This concept is a child of object
 
 ## Programming from above
 I shall use the words coding and programming interchangeably for the purpose of the things described here, they both mean the same.
