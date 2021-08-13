@@ -30,7 +30,15 @@ Think of CSS as a stone tablet like the 10 commandments. The great creator(You) 
 #### Python is a wizard
 Not only can she edit existing books, magazines, images, videos but also create all those things from thin air! 
 
-
+#### Methods are just stuff you can do with an thing
+Lets for a moment consider lists, dictionaries, to be an a thing. Like a ball. You can throw a ball, catch it, bounce it, burst it and so on. If you want to showcase this interactibility of the ball in code this is what it would look like:
+```py
+ball # this is your thing
+ball.bounce
+ball.throw
+ball.catch
+```
+It is a lot more intuitive to imagine these "methods" as roots or branches of a tree. I.E. they have an existance of their own, a purpose too but are still very much linked to the mother ship which in this case is the ball itself.
 
 ## Programming from above
 I shall use the words coding and programming interchangeably for the purpose of the things described here, they both mean the same.
